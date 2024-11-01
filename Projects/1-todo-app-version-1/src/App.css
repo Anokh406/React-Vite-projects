@@ -1,0 +1,19 @@
+h1{
+  font-weight: 700;
+  font-size: 45px;
+  margin: 10px;
+  margin-bottom: 20px;
+  text-decoration: underline;
+}
+.container{
+
+}
+input{
+  width: 100%;
+}
+button{
+  width: 100%;
+}.row{
+  text-align: left;
+  font-family: sans-serif;
+}
